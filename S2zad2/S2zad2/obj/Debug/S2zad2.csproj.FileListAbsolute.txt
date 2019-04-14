@@ -1,0 +1,7 @@
+C:\Users\Piotr\Desktop\CODE\S2zad2\S2zad2\bin\Debug\S2zad2.exe.config
+C:\Users\Piotr\Desktop\CODE\S2zad2\S2zad2\bin\Debug\S2zad2.exe
+C:\Users\Piotr\Desktop\CODE\S2zad2\S2zad2\bin\Debug\S2zad2.pdb
+C:\Users\Piotr\Desktop\CODE\S2zad2\S2zad2\obj\Debug\S2zad2.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\CODE\S2zad2\S2zad2\obj\Debug\S2zad2.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\CODE\S2zad2\S2zad2\obj\Debug\S2zad2.exe
+C:\Users\Piotr\Desktop\CODE\S2zad2\S2zad2\obj\Debug\S2zad2.pdb
